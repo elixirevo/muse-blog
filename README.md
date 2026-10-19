@@ -1,10 +1,9 @@
-# My GitBlog
+# Muse gitblog
 
-This repository contains my blog, built with the SvelteKit GitBlog template.
-Replace this introduction with your blog's name, public URL, topics, and author information.
+Yi(elixirevo)의 블로그입니다. SvelteKit GitBlog 템플릿으로 만들었습니다.
 
-This README belongs to the blog owner and is preserved by GitBlog Studio template updates.
-You can rewrite it freely; the LLM harness does not depend on its contents.
+- 공개 주소: https://elixirevo.github.io/muse-blog
+- 원본 언어: 한국어(ko), 번역: 영어(en)
 
 - [Official GitBlog guides](docs/gitblog/README.md): setup, authentication, writing, configuration, and deployment.
 - [LLM entry point](AGENTS.md): start here when working with an agent.

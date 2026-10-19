@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "comments": "enabled",
+  "confirmed": {
+    "PUBLIC_SITE_TITLE": "Muse gitblog",
+    "PUBLIC_SITE_URL": "https://elixirevo.github.io/muse-blog",
+    "PUBLIC_SOURCE_LOCALE": "ko",
+    "PUBLIC_TRANSLATION_LOCALES": "en"
+  }
+}
